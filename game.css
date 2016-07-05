@@ -1,0 +1,18 @@
+h1 {
+    align-content: center;
+}
+.container {
+    width: 70%;
+    margin-top: 20rem;
+    text-align: center;
+    font-size:40px;
+}
+body {
+    background-color: azure;
+}
+#mult1 {
+    font-size: 40px;
+}
+#answer {
+    width: 60px;
+}
