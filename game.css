@@ -1,3 +1,4 @@
+@import 'https://fonts.googleapis.com/css?family=Prompt:400,600|Raleway';
 h1 {
     align-content: center;
 }
@@ -8,11 +9,21 @@ h1 {
     font-size:40px;
 }
 body {
-    background-color: azure;
+    background-color: rgba(78,214,44,0.78);
+    font-family: Prompt,sans-serif;
 }
 #mult1 {
     font-size: 40px;
 }
 #answer {
     width: 60px;
+}
+.jumbotron{
+    background-color: rgba(6,133,251,1);
+    text-align: center;
+    margin-top:0px;
+}
+.navbar.navbar-inverse {
+    border-radius:0px;
+    margin-bottom:0px;
 }

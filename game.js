@@ -8,7 +8,7 @@ $(document).ready(function(){
     }
     var answer = RandomizeMultiplier();
     var counter = 0;
-    $("#respond").click(answerResponse());
+    $("#respond").click(answerResponse);
     $(document).keydown(function(event) {
         if(event.which == 13)
             {
